@@ -1,5 +1,5 @@
 ---
-title: Remember Michael Abler
+title: Remember Michael Alber
 layout: splash
 permalink: /
 header:
