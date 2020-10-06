@@ -16,9 +16,9 @@ minimal_mistakes_skin: "default"
 locale: en-US
 title: "Remember Michael"
 description: "Remember Michael"
-url                      : https://MichaelAlber.github.io
+url                      : https://tapscottlab.github.io/rememberMike.io/
 baseurl                  : "/"
-repository               : "RememberMichael"
+repository               : "rememberMike"
 
 # Collections
 collections:
