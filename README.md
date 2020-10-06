@@ -1,3 +1,4 @@
-This is a repository for Tapscott Lab's gh-pages and tools.
+
 # rememberMike.github.io
-# rememberMike.github.io
+
+

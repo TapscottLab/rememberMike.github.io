@@ -1,18 +1,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "News"
-    url: /news/
-  - title: "Calendar"
-    url: /lab-calendar/
-  - title: "Publications" 
-    url: /publications/
-  - title: "Team"
-    url: /team/
+  - title: "Stories"
+    url: /stories/
+  - title: "Memories"
+    url: /memories/    
 
-  - title: "Blog"
-    children:
-      - title: "Posts by Year"
-        url: /year-archive/
-      - title: "Posts by Tag"
-        url: /tags/

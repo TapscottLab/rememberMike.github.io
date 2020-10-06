@@ -10,21 +10,18 @@ plugins:
 
 remote_theme: "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "default"
 
 # Site Settings
 locale: en-US
-title: "Tapscott Lab"
-description: "Tapscott Lab"
-url                      : https://fredhutch.github.io
-baseurl                  : "/TapscottLab"
-repository               : "FredHutch/TapscottLab"
+title: "Remember Michael"
+description: "Remember Michael"
+url                      : https://MichaelAlber.github.io
+baseurl                  : "/"
+repository               : "RememberMichael"
 
 # Collections
 collections:
-  publications:
-    output: true
-    permalink: /:collection/:path/
   drafts:
     output: true
     permalink: /:collection/:path/
@@ -107,9 +104,8 @@ footer:
   links:
     - label: "GitHub Repo"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/FredHutch/TapscottLab"
-    - label: "Fred Hutch"
-      url: "http://fredhutch.org"
+      url: "https://github.com/RememberMichael"
+
 
 
 # Reading Files
@@ -188,17 +184,7 @@ defaults:
       sidebar:
         nav: "frontpage"
 
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "publications"
+
 
 # Archives
 #  Type
