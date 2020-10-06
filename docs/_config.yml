@@ -18,7 +18,7 @@ title: "Remember Michael"
 description: "Remember Michael"
 url                      : https://tapscottlab.github.io/rememberMike.io/
 baseurl                  : "/"
-repository               : "rememberMike"
+repository               : "tapscottlab/rememberMike.io"
 
 # Collections
 collections:
